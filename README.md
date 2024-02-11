@@ -7,7 +7,9 @@ A batch file that shows all wlans and passwords.
 
 
 # What is it?
-First it will list all WIFI´s´and then you type in a WIFI name and it will give the password out under Key content
+First it will list all WIFI´s´and then you type in a WIFI name and it will give the password out under **Keycontent**
+
+If The computer was protected by Windows pop up click on further information and then run anyway (**you can trust me that it is not a virus**)
 
 # Usage (simple)
 Download it open explorer, head to download folder and dobble klick on the Wlan.bat file 
