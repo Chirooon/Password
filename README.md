@@ -1,7 +1,7 @@
 # WIFI password 
 A batch file that shows all wlans and passwords.
 
-#Screenshot
+
 ![scrennshot](https://github.com/Chirooon/Password/assets/155199793/eaa2619a-6c52-4665-a166-50d919f751ab)
 
 
