@@ -2,8 +2,7 @@
 A batch file that shows all wlans and passwords.
 
 
-![scrennshot](https://github.com/Chirooon/Password/assets/155199793/eaa2619a-6c52-4665-a166-50d919f751ab)
-
+![303952021-eaa2619a-6c52-4665-a166-50d919f751ab (1)](https://github.com/Chirooon/Password/assets/155199793/9ee3dd45-6fd3-474a-97ac-5caf7f243d87)
 
 
 # What is it?
