@@ -14,7 +14,7 @@ If The computer was protected by Windows pop up click on further information and
 Download it open explorer, head to download folder and dobble klick on the Wlan.bat file 
 
 # Usage(HaCkEr=cmd)
-Download it, navigate to the downloads tab and type at the top `cmd` and the in cmd of curse you want the hacker vibe so type `color 2` in after copy the file path of `Wlan.bat` and put it in cmd and press enter.
+Download it, navigate to the downloads tab and type at the top `cmd` and the in cmd. Of curse you want the hacker vibe so type `color 2` in after copy the file path of `Wlan.bat` and put it in cmd and press enter.
 
 # Finish
 If no contact me on discord [![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/chiron6750)
