@@ -16,5 +16,8 @@ Download it open explorer, head to download folder and dobble klick on the Wlan.
 # Usage(HaCkEr=cmd)
 Download it, navigate to the downloads tab and type at the top `cmd` and the in cmd. Of curse you want the hacker vibe so type `color 2` in after copy the file path of `Wlan.bat` and put it in cmd and press enter.
 
-# Finish
-If no contact me on discord [![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/chiron6750)
+# Need help?
+[![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/792468382083448853)
+
+# Code request?
+[![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/792468382083448853)
